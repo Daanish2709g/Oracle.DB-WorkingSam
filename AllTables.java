@@ -1,6 +1,6 @@
 package com.oracle.springapp.model;
 
-/**
+/**  
  *  Simple model for ALL_TABLES
  */
 public class AllTables {
